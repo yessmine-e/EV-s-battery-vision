@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "409626665608",
+    "firebase_url": "https://product-84441-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "product-84441",
+    "storage_bucket": "product-84441.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409626665608:android:4be3f96104f560b263f53d",
+        "android_client_info": {
+          "package_name": "com.example.batteryvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7q00YmnLhqTCZd2qBDauG-xeebDMb-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/Downloads/batteryvision/android/app/.cxx/Debug/1m1z665m/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Downloads/batteryvision/android/app/.cxx/Debug/1m1z665m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

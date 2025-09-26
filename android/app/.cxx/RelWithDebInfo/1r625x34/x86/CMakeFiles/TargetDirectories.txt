@@ -1,0 +1,2 @@
+D:/Downloads/batteryvision/android/app/.cxx/RelWithDebInfo/1r625x34/x86/CMakeFiles/edit_cache.dir
+D:/Downloads/batteryvision/android/app/.cxx/RelWithDebInfo/1r625x34/x86/CMakeFiles/rebuild_cache.dir
