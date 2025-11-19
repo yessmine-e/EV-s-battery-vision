@@ -1,17 +1,17 @@
-# 🔋 Intelligent EV Battery Monitoring System (AI + IoT)
+#  Intelligent EV Battery Monitoring System (AI + IoT)
 
-## 📌 Introduction
+##  Introduction
 
 Ce projet propose un **système intelligent de surveillance des batteries pour véhicules électriques (EV)** utilisant l’**Intelligence Artificielle (AI)** et l’**Internet of Things (IoT)**. Le système prédit avec précision le **State of Charge (SOC)** et le **State of Health (SOH)** des batteries lithium-ion, optimisant la performance, la durée de vie et l’efficacité énergétique.
 
-## 🏗️ Fonctionnement
+##  Fonctionnement
 
 1. Les capteurs IoT collectent des données en temps réel : tension, courant, température, cycles de charge/décharge.
 2. Les données sont envoyées à une plateforme cloud pour traitement.
 3. Les modèles AI (DNN, XGBoost, Random Forest, LGBMRegressor) prédisent SOC, SOH et Remaining Useful Life (RUL).
 4. Le système fournit des diagnostics précis et des recommandations via une application mobile.
 
-## 🖥️ Interface Utilisateur
+##  Interface Utilisateur
 
 Le système propose deux écrans principaux :
 
@@ -20,7 +20,7 @@ Le système propose deux écrans principaux :
 
 Ces écrans offrent une interface intuitive qui améliore l’expérience de conduite et permet une gestion efficace de l’énergie.
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * **AI / ML** : DNN, XGBoost, Random Forest, LGBMRegressor
 * **IoT** : Capteurs temps réel, collecte de données
@@ -28,7 +28,7 @@ Ces écrans offrent une interface intuitive qui améliore l’expérience de con
 * **Data Processing** : EDA, KDE, SMOTE, Noise Injection
 * **Frontend / Cloud** : Application mobile, stockage cloud
 
-## 🚀 Fonctionnalités clés
+##  Fonctionnalités clés
 
 * Prédiction précise de SOC et SOH
 * Estimation de RUL
@@ -36,7 +36,7 @@ Ces écrans offrent une interface intuitive qui améliore l’expérience de con
 * Optimisation de l’efficacité énergétique et prolongation de la durée de vie
 * Visualisation des données et alertes via application mobile
 
-## 📦 Installation & Exécution
+##  Installation & Exécution
 
 1. Installer les dépendances Python
 
